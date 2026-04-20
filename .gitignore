@@ -4,6 +4,7 @@ Thumbs.db
 
 # Quarto output
 _site/
+docs/
 .quarto/
 *_cache/
 *_files/

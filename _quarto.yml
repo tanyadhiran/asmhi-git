@@ -6,7 +6,7 @@ project:
     - "slides/slides.qmd"
 
 website:
-  title: "Git and GitHub"
+  title: "Git and GitHub for health data science"
   navbar:
     search: false
     left:
@@ -19,10 +19,10 @@ website:
       - href: slides/slides.html
         text: Slides
     right:
-      - text: "NIHR Maudsley BRC"
-        href: "https://www.maudsleybrc.nihr.ac.uk"
+      - text: "ASMHI MSc"
+        href: index.qmd
   page-footer:
-    left: "NIHR Maudsley BRC · King's College London · April 2026"
+    left: "ASMHI MSc · King's College London · 20 April 2026"
 
 format:
   html:

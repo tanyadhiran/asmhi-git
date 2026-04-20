@@ -1,15 +1,14 @@
-# Git workshop · NIHR Maudsley BRC
+# Git and GitHub for health data science
 
-**Git for people who've been meaning to learn Git (but haven't yet)**
+**ASMHI MSc**
 
-Thursday 23 April 2026, 14:00–16:00  
-Robin Murray A & B, IoPPN, Denmark Hill
+Monday 20 April 2026, 13:30–15:00
 
 ## Workshop website
 
-Setup instructions and exercises: [ewancarr.github.io/brc-git-workshop-2026](https://ewancarr.github.io/brc-git-workshop-2026)
+Setup instructions and exercises: [ewancarr.github.io/asmhi-git](https://ewancarr.github.io/asmhi-git)
 
-Slides: [ewancarr.github.io/brc-git-workshop-2026/slides/slides.html](https://ewancarr.github.io/brc-git-workshop-2026/slides/slides.html)
+Slides: [ewancarr.github.io/asmhi-git/slides/slides.html](https://ewancarr.github.io/asmhi-git/slides/slides.html)
 
 ## Collaborative exercise
 

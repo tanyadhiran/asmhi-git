@@ -2,11 +2,11 @@
 title: "Setup instructions"
 ---
 
-Please work through all five steps below before the workshop. Each one takes just a few minutes.
+Please work through the steps below before the session. Each one takes just a few minutes.
 
 ::: {.callout-tip}
 ## Already set up?
-If you already have Git installed, a GitHub account, and GitHub Desktop signed in, you're done — just complete the [pre-workshop survey](#survey) at the bottom of this page.
+If you already have Git installed, a GitHub account, and GitHub Desktop signed in, you're done.
 :::
 
 ---
@@ -145,16 +145,6 @@ These settings are stored in a file called `.gitconfig` in your home folder:
 
 ---
 
-## Step 5 · Complete the pre-workshop survey {#survey}
-
-Please fill in the short survey below so we can understand your background and tailor the session:
-
-**→ [Complete the survey](https://www.menti.com/alzqc39oxjan)**
-
-*(Takes about 2 minutes. Closes 22 April.)*
-
----
-
 ## All done?
 
-You're ready for the workshop. See you on **Thursday 23 April at 14:00** in Robin Murray A & B.
+You're ready for the session. See you on **Monday 20 April at 13:30**.

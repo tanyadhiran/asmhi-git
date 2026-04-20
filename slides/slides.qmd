@@ -1,6 +1,6 @@
 ---
-title: "Git for people who've been meaning to learn Git (but haven't yet)"
-subtitle: "NIHR Maudsley BRC<br>23 April 2026"
+title: "Git and GitHub for health data science"
+subtitle: "ASMHI MSc<br>20 April 2026"
 author: "Dr Ewan Carr"
 institute: "King's College London"
 format:
@@ -15,19 +15,6 @@ format:
     transition-speed: fast
     center: true
     code-line-numbers: false
-    include-after-body:
-      text: |
-        <script>
-        document.addEventListener('DOMContentLoaded', function () {
-          var t = document.querySelector('#title-slide h1.title');
-          if (t) {
-            t.innerHTML = t.innerHTML.replace(
-              ' (but haven\u2019t yet)',
-              '<br><span style="display:inline-block">(but haven\u2019t yet)</span>'
-            );
-          }
-        });
-        </script>
 ---
 
 ## Today {.today-slide}
@@ -87,7 +74,7 @@ Schedule
 
 ::: {.today-session .today-session-hour1}
 ::: {.today-session-time}
-14:00–15:00
+13:30–14:10
 :::
 ::: {.today-session-title}
 Concepts and demonstrations
@@ -99,7 +86,7 @@ Build the core ideas first, then watch the workflow happen end to end.
 
 ::: {.today-session .today-session-hour2}
 ::: {.today-session-time}
-15:00–16:00
+14:10–15:00
 :::
 ::: {.today-session-title}
 Practice
@@ -113,14 +100,6 @@ Make a repository, commit changes, and try the workflow yourself.
 :::
 
 ::::
-
----
-
-::: {.center style="text-align:center; margin: 0 auto; max-width: 70%;"}
-![](images/ballot-box.png){width="70%" fig-align="center"}
-
-[Your answers to the survey...]{.muted}
-:::
 
 ---
 
@@ -620,7 +599,7 @@ See the `example` folder on [GitHub][example] to download the files.
 
 [Note: You do not need to understand the R code, or even run it.]{.muted}
 
-[example]: https://github.com/ewancarr/brc-git-workshop-2026/tree/main/example
+[example]: https://github.com/ewancarr/asmhi-git/tree/main/example
 
 ---
 
@@ -801,18 +780,6 @@ Your entire project is now on GitHub: files, history, and commit messages. Backe
 <div class="task-item">Click **Push origin**</div>
 <div class="task-item">Refresh GitHub and watch the new commit appear</div>
 :::
-
----
-
-## 🧠 Mini quiz {.sec background-color="#EA526F"}
-
----
-
-![](images/mentimeter_qr_code.png){width="30%" fig-align="center"}
-
-<div style="text-align: center; margin-top: 0.5em;">
-<a href="https://www.menti.com/alrgybisqx9m"><code>menti.com/alrgybisqx9m</code></a>
-</div>
 
 ---
 

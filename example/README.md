@@ -1,7 +1,7 @@
 # Readmission prediction — running example
 
 Toy clinical prediction model used as the running example in the
-*Git for people who've been meaning to learn Git* workshop (NIHR Maudsley BRC, April 2026).
+*Git and GitHub for health data science* workshop (ASMHI MSc, 20 April 2026).
 
 ## Data
 

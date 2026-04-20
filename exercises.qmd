@@ -44,7 +44,7 @@ You don't need to open these files — just know they exist.
 
 ## Exercise 0 · Pre-flight check {#ex0}
 
-*~5 minutes · 15:00–15:05*
+*~5 minutes · 14:10–14:15*
 
 A quick check to make sure everything is ready before we dive in.
 
@@ -87,7 +87,7 @@ faster to fix this before the exercises than halfway through.
 
 ## Exercise 1 · Your first repository {#ex1}
 
-*~15 minutes · 15:05–15:20*
+*~15 minutes · 14:15–14:30*
 
 You're going to turn the example project folder into a Git repository, make your first commit, make a change, and commit that too.
 
@@ -197,7 +197,7 @@ You should see two commits listed, most recent first.
 
 ## Exercise 2 · Push to GitHub {#ex2}
 
-*~10 minutes · 15:20–15:30*
+*~10 minutes · 14:30–14:40*
 
 Your repository only exists on your computer right now. In this exercise you'll put a copy on GitHub.
 
@@ -266,7 +266,7 @@ Notice that `data/` and `outputs/` are not on GitHub — even though they're in 
 
 ## Exercise 3 · The everyday loop {#ex3}
 
-*~10 minutes · 15:30–15:40*
+*~10 minutes · 14:40–14:50*
 
 This is the workflow you'll use day-to-day: edit a file, commit the change, push to GitHub.
 
@@ -353,11 +353,11 @@ In GitHub Desktop: **Branch → New Branch**, make a commit, then switch back vi
 
 ## Collaborative exercise · Add your name
 
-*~20 minutes · 15:40–16:00*
+*~10 minutes · 14:50–15:00*
 
 Everyone is going to contribute to a shared repository. This is exactly how open-source collaboration works.
 
-The repo is at: **[github.com/ewancarr/brc-git-workshop-2026](https://github.com/ewancarr/brc-git-workshop-2026)**
+The repo is at: **[github.com/ewancarr/asmhi-git](https://github.com/ewancarr/asmhi-git)**
 
 It contains one file — `names.md` — and your job is to add your name to it.
 
@@ -370,7 +370,7 @@ You don't have write access to the workshop repo, so you can't push to it direct
 
 1. Go to the repo URL above
 2. Click **Fork** (top right) → **Create fork**
-3. You now have your own copy at `github.com/YOUR-USERNAME/brc-git-workshop-2026`
+3. You now have your own copy at `github.com/YOUR-USERNAME/asmhi-git`
 
 ### Step 2: Clone your fork
 
@@ -379,14 +379,14 @@ You don't have write access to the workshop repo, so you can't push to it direct
 ### GitHub Desktop
 
 1. **File → Clone Repository**
-2. Find `brc-git-workshop-2026` in your repository list (it should appear under your account)
+2. Find `asmhi-git` in your repository list (it should appear under your account)
 3. Choose a local path and click **Clone**
 
 ### Command line
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/brc-git-workshop-2026.git
-cd brc-git-workshop-2026
+git clone https://github.com/YOUR-USERNAME/asmhi-git.git
+cd asmhi-git
 ```
 
 :::
@@ -424,7 +424,7 @@ git push
 
 ### Step 5: Open a pull request
 
-1. Go to your fork on GitHub (`github.com/YOUR-USERNAME/brc-git-workshop-2026`)
+1. Go to your fork on GitHub (`github.com/YOUR-USERNAME/asmhi-git`)
 2. GitHub will show a banner: *"This branch is 1 commit ahead of ewancarr:main"*
 3. Click **Contribute → Open pull request**
 4. The title will be pre-filled — click **Create pull request**

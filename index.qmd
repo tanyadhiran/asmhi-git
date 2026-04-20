@@ -1,15 +1,15 @@
 ---
-title: "Git for people who've been meaning to learn Git (but haven't yet)"
+title: "Git and GitHub for health data science"
 toc: false
 ---
 
-A hands-on introduction to Git and GitHub for researchers — covering the core
+A hands-on introduction to Git and GitHub for health data science — covering the core
 concepts, practical workflows from first commit to collaborative pull request,
 and habits and best practices.
 
 ::: {.callout-important}
 ## Before the workshop
-Please complete the [setup instructions](setup.qmd) **before 23 April**. The session moves quickly and we won't have time to troubleshoot installations on the day.
+Please complete the [setup instructions](setup.qmd) before the session if you can. The session moves quickly and we won't have much time to troubleshoot installations on the day.
 :::
 
 ---
@@ -18,16 +18,15 @@ Please complete the [setup instructions](setup.qmd) **before 23 April**. The ses
 
 |  |  |
 |--|--|
-| **Date** | Thursday 23 April 2026 |
-| **Time** | 14:00–16:00 |
-| **Room** | Robin Murray A & B, IoPPN, Denmark Hill |
+| **Date** | Monday 20 April 2026 |
+| **Time** | 13:30–15:00 |
 | **Presenter** | Dr Ewan Carr, King's College London |
 
 ---
 
 ## What you'll learn
 
-**Hour 1 — Concepts and demonstration**
+**Part 1 — Concepts and demonstration**
 
 - What Git is and why researchers use it
 - The core vocabulary: repositories, commits, staging, push, pull
@@ -35,7 +34,7 @@ Please complete the [setup instructions](setup.qmd) **before 23 April**. The ses
 - How Git and GitHub fit together
 - A live demonstration of the full workflow
 
-**Hour 2 — Hands-on practice**
+**Part 2 — Hands-on practice**
 
 - Turning an existing project folder into a Git repository
 - Making commits and viewing your history
@@ -48,13 +47,12 @@ Please complete the [setup instructions](setup.qmd) **before 23 April**. The ses
 
 | Time | Session |
 |------|---------|
-| 13:30 | Registration and coffee |
-| 14:00 | Welcome |
-| 14:05 | **Hour 1: Concepts and demonstration** |
-| 14:55 | *Break* |
-| 15:00 | **Hour 2: Hands-on exercises** |
-| 15:40 | Group exercise: contributing to a shared repository |
-| 16:00 | Close |
+| 13:30 | Welcome |
+| 13:35 | **Part 1: Concepts and demonstration** |
+| 14:10 | Questions and pre-flight check |
+| 14:15 | **Part 2: Hands-on exercises** |
+| 14:50 | Collaborative exercise: contributing to a shared repository |
+| 15:00 | Close |
 
 ---
 

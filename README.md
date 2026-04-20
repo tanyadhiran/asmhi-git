@@ -9,6 +9,8 @@ Robin Murray A & B, IoPPN, Denmark Hill
 
 Setup instructions and exercises: [ewancarr.github.io/brc-git-workshop-2026](https://ewancarr.github.io/brc-git-workshop-2026)
 
+Slides: [ewancarr.github.io/brc-git-workshop-2026/slides/slides.html](https://ewancarr.github.io/brc-git-workshop-2026/slides/slides.html)
+
 ## Collaborative exercise
 
 During the session, participants will fork this repository, add their name to [`names.md`](names.md), and open a pull request.
